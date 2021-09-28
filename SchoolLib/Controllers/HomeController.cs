@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using SchoolLib.Models;
+using SchoolLib_Model.Model;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
